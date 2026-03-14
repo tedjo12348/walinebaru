@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "@waline/vercel": "^3.4.1"
-    "@waline/api": "^1.1.0"
+    "@waline/vercel": "^3.4.1",
+    "@waline/api": "^1.1.0",
   }
 }
